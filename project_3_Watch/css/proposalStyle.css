@@ -1,0 +1,53 @@
+body{
+    background-color:dimgray;
+}
+
+h1,h2,h3,h4,p,li{
+    font-size:large;
+    color: rgb(235, 241, 248);
+}
+
+h3{
+    font-size: x-large;
+    color:#65e4b5
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    display:flex ;
+    margin: 0 auto 2%;
+    background-color: #3e4249;
+    overflow: hidden;
+    
+    justify-content: center;
+    gap: 30px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    user-select: none;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #aaaaaa;
+    color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+    background-color: #51aac5;
+    color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}

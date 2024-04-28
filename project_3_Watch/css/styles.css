@@ -1,0 +1,65 @@
+body{
+    background-color:dimgray;
+}
+canvas{
+    display: block;
+    margin: auto auto 0;
+}
+
+#warning{
+    user-select: none;
+}
+
+#prompt{
+    max-width: fit-content;
+    margin: 5% auto;
+    user-select: none;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    display:flex ;
+    margin: 0 auto 2%;
+    background-color: #3e4249;
+    overflow: hidden;
+    
+    justify-content: center;
+    gap: 30px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    user-select: none;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #aaaaaa;
+    color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+    background-color: #51aac5;
+    color: white;
+}
+
+
+#warning{
+    font-size: x-large;
+    color:rgb(187, 38, 12);
+    font-weight:bold;
+    background-color: white;
+    width:fit-content;
+}
+
+#instructions{
+    user-select: none;
+}
