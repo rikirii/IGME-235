@@ -1,0 +1,33 @@
+body img{
+    display: block;
+    width: 40%;
+    height: 40%;
+}
+
+img{
+    padding-top: 3rem;
+    border-bottom: 2px dashed black;
+}
+
+
+
+/*links*/
+a:link{
+    color: #45503B
+}
+
+a:visited{
+    color: #571b2f;
+}
+a:focus{
+    background-color: #E8E8E8;
+}
+
+a:hover{
+    color: black ;
+    background: #c2c060;
+}
+
+a:active{
+    color: #d37ba7;
+}

@@ -1,0 +1,11 @@
+https://www.w3schools.com/css/css_list.asp
+https://stackoverflow.com/questions/35318680/align-text-on-top-of-image-using-flex
+https://stackoverflow.com/questions/63222551/take-half-width-in-3-columns-css-grid-layout
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://stackoverflow.com/questions/71098190/responsive-css-grid-with-scrollable-cell-overflows-its-parent-container
+https://stackoverflow.com/questions/46090760/controlling-the-size-of-an-image-within-a-css-grid-layout
+https://blog.hubspot.com/website/css-padding
+https://www.w3schools.com/css/css_positioning.asp
+https://www.w3schools.com/cssref/css_units.php
+https://www.w3schools.com/css/css_margin.asp
+https://www.thoughtco.com/html-code-for-common-symbols-and-signs-2654021
